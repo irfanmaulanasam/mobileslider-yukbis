@@ -1,0 +1,43 @@
+[
+    {
+    "name": "ini pertama",
+    "price":"45000",
+    "image":"https://picsum.photos/450/300/?random"
+    },
+    {
+        "name": "ini kedua",
+        "price":"772212",
+        "image":"https://picsum.photos/451/300/?random"
+    },
+    {
+        "name": "ini ketiga",
+        "price":"772212",
+        "image":"https://picsum.photos/452/300/?random"
+    },
+    {
+        "name": "ini keempat",
+        "price":"772212",
+        "image":"https://picsum.photos/453/300/?random"
+    },
+    {
+        "name": "ini kelima",
+        "price":"772212",
+        "image":"https://picsum.photos/454/300/?random"
+    },
+    {
+        "name": "ini keenam",
+        "price":"772212",
+        "image":"https://picsum.photos/455/300/?random"
+    },
+    {
+        "name": "ini ketujuh",
+        "price":"772212",
+        "image":"https://picsum.photos/456/300/?random"
+    },
+    {
+        "name": "ini kedelapan",
+        "price":"772212",
+        "image":"https://picsum.photos/457/300/?random"
+
+    }
+]
