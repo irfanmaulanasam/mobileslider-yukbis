@@ -3,13 +3,6 @@
   <div class="scroll">
   <scroll :dataProduct="dataProduct"/>
   </div>
-  <div class="slideThumbnail">
-   <slideThumbnail 
-   :startingImage="1" 
-   :imagesSrc="images"  
-   :auto-slide-interval="3000"
-   :show-progress-bar="true"/>
-  </div>
 </div>
 </template>
 <script>
