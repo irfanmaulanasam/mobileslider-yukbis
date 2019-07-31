@@ -2,6 +2,7 @@
 <div id="carousel">
   <div class="scroll">
   <scroll :dataProduct="dataProduct"/>
+  
   </div>
 </div>
 </template>
